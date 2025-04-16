@@ -1,4 +1,11 @@
-"scripts": {
-  "build": "vite build",
-  "start": "NODE_ENV=production node server.js"
+{
+  "name": "estate-empire-nyc",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "vite build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "vite": "^5.0.0"
+  }
 }
